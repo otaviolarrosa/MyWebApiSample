@@ -4,3 +4,4 @@ This project uses:
   - Dapper
   - Dommel
   - MySqlConnector
+  - MySQL
